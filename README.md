@@ -33,7 +33,7 @@ I am using Python language for working on data as it is more appropriate for wor
 
 Data processing and analysis is done in jupyter notebook.
 
-Jupyter notebook link-
+Code available at-
 
 https://github.com/nandkumar-sawant/Cyclistic-Bike-Share-Analysis/blob/main/Cyclistic%20Bike%20share%20Analysis.ipynb
 
