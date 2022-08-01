@@ -62,3 +62,5 @@ Final Conclusion-
 The above observations could be useful for making recommendations for a targeted marketing campaign to convert casual riders to member riders.
 Cyclistic could partner with restaurants and recreational facilities near the Top 3 start stations. As an example a discounted bike share membership could be offered when they purchase an item at a local business near these stations.
 The best would be if the marketing team can run a survey to collect the data from current casual riders, understand what kind of features or benefits they look for when considering membership.
+
+Thank you !!!
